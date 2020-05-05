@@ -1,0 +1,221 @@
+{
+  "detailhp": [
+    {
+      "id": "1001",
+      "nama": "Xiaomi A1",
+      "merk": "Xiaomi",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "1002",
+      "nama": "Xiaomi A2",
+      "merk": "Xiaomi",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "1003",
+      "nama": "Xiaomi A3",
+      "merk": "Xiaomi",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "1004",
+      "nama": "Xiaomi A4",
+      "merk": "Xiaomi",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "1005",
+      "nama": "Xiaomi A5",
+      "merk": "Xiaomi",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "2001",
+      "nama": "Oppo A1",
+      "merk": "Oppo",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "2002",
+      "nama": "Oppo A2",
+      "merk": "Oppo",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "2003",
+      "nama": "Oppo A3",
+      "merk": "Oppo",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "2004",
+      "nama": "Oppo A4",
+      "merk": "Oppo",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "2005",
+      "nama": "Oppo A5",
+      "merk": "Oppo",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "3001",
+      "nama": "Realme A1",
+      "merk": "Realme",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "3002",
+      "nama": "Realme A2",
+      "merk": "Realme",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "3003",
+      "nama": "Realme A3",
+      "merk": "Realme",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "3004",
+      "nama": "Realme A4",
+      "merk": "Realme",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "3005",
+      "nama": "Realme A5",
+      "merk": "Realme",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "4001",
+      "nama": "Samsung A1",
+      "merk": "Samsung",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "4002",
+      "nama": "Samsung A2",
+      "merk": "Samsung",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "4003",
+      "nama": "Samsung A3",
+      "merk": "Samsung",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "4004",
+      "nama": "Samsung A4",
+      "merk": "Samsung",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "4005",
+      "nama": "Samsung A5",
+      "merk": "Samsung",
+      "ram": "4",
+      "rom": "64",
+      "harga": "2000000"
+    },
+    {
+      "id": "5001",
+      "nama": "Iphone A1",
+      "merk": "Iphone",
+      "ram": "4",
+      "rom": "64",
+      "harga": "12000000"
+    },
+    {
+      "id": "5002",
+      "nama": "Iphone A2",
+      "merk": "Iphone",
+      "ram": "4",
+      "rom": "64",
+      "harga": "12000000"
+    },
+    {
+      "id": "5003",
+      "nama": "Iphone A3",
+      "merk": "Iphone",
+      "ram": "4",
+      "rom": "64",
+      "harga": "12000000"
+    },
+    {
+      "id": "5004",
+      "nama": "Iphone A4",
+      "merk": "Iphone",
+      "ram": "4",
+      "rom": "64",
+      "harga": "12000000"
+    },
+    {
+      "id": "5005",
+      "nama": "Iphone A5",
+      "merk": "Iphone",
+      "ram": "4",
+      "rom": "64",
+      "harga": "12000000"
+    }
+  ],
+  "merk": [
+    {
+      "kode_merk": "Iphone"
+    },
+    {
+      "kode_merk": "Oppo"
+    },
+    {
+      "kode_merk": "Realme"
+    },
+    {
+      "kode_merk": "Samsung"
+    },
+    {
+      "kode_merk": "Xiaomi"
+    }
+  ]
+}
